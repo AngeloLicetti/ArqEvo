@@ -1,0 +1,57 @@
+public override Object Central()
+        {
+            if (mNormal)
+            {
+                if (lista.Items.Count % 2 == 0)
+                {
+                    index = lista.Items.Count / 2 - 1;
+                }
+                else
+                {
+                    index = (lista.Items.Count - 1) / 2;
+                }
+            }
+            if (soloPares)
+            {
+                for (int i = 0, j = lista.Items.Count - 1; i <= j; i++, j--)
+                {
+                    bool primeraIteracion = i == 0;
+                    while (!EsPar(lista.Items[i]))
+                    {
+                        i++;
+                        if (index == lista.Items.Count && primeraIteracion)
+                        {
+                            return "No hay ningún par";
+                        }
+                    }
+
+                    while (!EsPar(lista.Items[j]))
+                    {
+                        j--;
+                    }
+                    index = i;
+                }
+            }
+            if (soloImpares)
+            {
+                for (int i = 0, j = lista.Items.Count - 1; i <= j; i++, j--)
+                {
+                    bool primeraIteracion = i == 0;
+                    while (!EsImpar(lista.Items[i]))
+                    {
+                        i++;
+                        if (index == lista.Items.Count && primeraIteracion)
+                        {
+                            return "No hay ningún imnpar";
+                        }
+                    }
+
+                    while (!EsImpar(lista.Items[j]))
+                    {
+                        j--;
+                    }
+                    index = i;
+                }
+            }
+            return lista.Items[index];
+        }

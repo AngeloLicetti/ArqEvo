@@ -1,0 +1,9 @@
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab06-UnidadDePruebas\Lab06-UnidadDePruebas\bin\Debug\Lab06-UnidadDePruebas.exe.config
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab06-UnidadDePruebas\Lab06-UnidadDePruebas\bin\Debug\Lab06-UnidadDePruebas.exe
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab06-UnidadDePruebas\Lab06-UnidadDePruebas\bin\Debug\Lab06-UnidadDePruebas.pdb
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab06-UnidadDePruebas\Lab06-UnidadDePruebas\obj\Debug\Lab06-UnidadDePruebas.csprojAssemblyReference.cache
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab06-UnidadDePruebas\Lab06-UnidadDePruebas\obj\Debug\Lab06_UnidadDePruebas.Properties.Resources.resources
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab06-UnidadDePruebas\Lab06-UnidadDePruebas\obj\Debug\Lab06-UnidadDePruebas.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab06-UnidadDePruebas\Lab06-UnidadDePruebas\obj\Debug\Lab06-UnidadDePruebas.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab06-UnidadDePruebas\Lab06-UnidadDePruebas\obj\Debug\Lab06-UnidadDePruebas.exe
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab06-UnidadDePruebas\Lab06-UnidadDePruebas\obj\Debug\Lab06-UnidadDePruebas.pdb

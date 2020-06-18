@@ -1,0 +1,10 @@
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab05-Decorator\Lab05-Decorator\bin\Debug\Lab05-Decorator.exe.config
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab05-Decorator\Lab05-Decorator\bin\Debug\Lab05-Decorator.exe
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab05-Decorator\Lab05-Decorator\bin\Debug\Lab05-Decorator.pdb
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab05-Decorator\Lab05-Decorator\obj\Debug\Lab05-Decorator.csprojAssemblyReference.cache
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab05-Decorator\Lab05-Decorator\obj\Debug\Lab05_Decorator.Form1.resources
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab05-Decorator\Lab05-Decorator\obj\Debug\Lab05_Decorator.Properties.Resources.resources
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab05-Decorator\Lab05-Decorator\obj\Debug\Lab05-Decorator.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab05-Decorator\Lab05-Decorator\obj\Debug\Lab05-Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab05-Decorator\Lab05-Decorator\obj\Debug\Lab05-Decorator.exe
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab05-Decorator\Lab05-Decorator\obj\Debug\Lab05-Decorator.pdb

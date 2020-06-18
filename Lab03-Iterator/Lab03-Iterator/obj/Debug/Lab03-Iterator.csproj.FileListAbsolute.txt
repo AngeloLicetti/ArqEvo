@@ -1,0 +1,20 @@
+C:\Users\Pc\Downloads\urp\7mo ciclo\arqevo\Lab03-Iterator\Lab03-Iterator\bin\Debug\Lab03-Iterator.exe.config
+C:\Users\Pc\Downloads\urp\7mo ciclo\arqevo\Lab03-Iterator\Lab03-Iterator\bin\Debug\Lab03-Iterator.exe
+C:\Users\Pc\Downloads\urp\7mo ciclo\arqevo\Lab03-Iterator\Lab03-Iterator\bin\Debug\Lab03-Iterator.pdb
+C:\Users\Pc\Downloads\urp\7mo ciclo\arqevo\Lab03-Iterator\Lab03-Iterator\obj\Debug\Lab03-Iterator.csprojAssemblyReference.cache
+C:\Users\Pc\Downloads\urp\7mo ciclo\arqevo\Lab03-Iterator\Lab03-Iterator\obj\Debug\Lab03_Iterator.Form1.resources
+C:\Users\Pc\Downloads\urp\7mo ciclo\arqevo\Lab03-Iterator\Lab03-Iterator\obj\Debug\Lab03_Iterator.Properties.Resources.resources
+C:\Users\Pc\Downloads\urp\7mo ciclo\arqevo\Lab03-Iterator\Lab03-Iterator\obj\Debug\Lab03-Iterator.csproj.GenerateResource.cache
+C:\Users\Pc\Downloads\urp\7mo ciclo\arqevo\Lab03-Iterator\Lab03-Iterator\obj\Debug\Lab03-Iterator.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Downloads\urp\7mo ciclo\arqevo\Lab03-Iterator\Lab03-Iterator\obj\Debug\Lab03-Iterator.exe
+C:\Users\Pc\Downloads\urp\7mo ciclo\arqevo\Lab03-Iterator\Lab03-Iterator\obj\Debug\Lab03-Iterator.pdb
+C:\Users\Pc\source\repos\urp\arqevo\Lab03-Iterator\Lab03-Iterator\bin\Debug\Lab03-Iterator.exe.config
+C:\Users\Pc\source\repos\urp\arqevo\Lab03-Iterator\Lab03-Iterator\bin\Debug\Lab03-Iterator.exe
+C:\Users\Pc\source\repos\urp\arqevo\Lab03-Iterator\Lab03-Iterator\bin\Debug\Lab03-Iterator.pdb
+C:\Users\Pc\source\repos\urp\arqevo\Lab03-Iterator\Lab03-Iterator\obj\Debug\Lab03-Iterator.csprojAssemblyReference.cache
+C:\Users\Pc\source\repos\urp\arqevo\Lab03-Iterator\Lab03-Iterator\obj\Debug\Lab03_Iterator.Form1.resources
+C:\Users\Pc\source\repos\urp\arqevo\Lab03-Iterator\Lab03-Iterator\obj\Debug\Lab03_Iterator.Properties.Resources.resources
+C:\Users\Pc\source\repos\urp\arqevo\Lab03-Iterator\Lab03-Iterator\obj\Debug\Lab03-Iterator.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\urp\arqevo\Lab03-Iterator\Lab03-Iterator\obj\Debug\Lab03-Iterator.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\urp\arqevo\Lab03-Iterator\Lab03-Iterator\obj\Debug\Lab03-Iterator.exe
+C:\Users\Pc\source\repos\urp\arqevo\Lab03-Iterator\Lab03-Iterator\obj\Debug\Lab03-Iterator.pdb

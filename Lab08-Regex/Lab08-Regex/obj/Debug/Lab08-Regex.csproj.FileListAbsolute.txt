@@ -1,0 +1,10 @@
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab08-Regex\Lab08-Regex\bin\Debug\Lab08-Regex.exe.config
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab08-Regex\Lab08-Regex\bin\Debug\Lab08-Regex.exe
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab08-Regex\Lab08-Regex\bin\Debug\Lab08-Regex.pdb
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab08-Regex\Lab08-Regex\obj\Debug\Lab08-Regex.csprojAssemblyReference.cache
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab08-Regex\Lab08-Regex\obj\Debug\Lab08_Regex.Form1.resources
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab08-Regex\Lab08-Regex\obj\Debug\Lab08_Regex.Properties.Resources.resources
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab08-Regex\Lab08-Regex\obj\Debug\Lab08-Regex.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab08-Regex\Lab08-Regex\obj\Debug\Lab08-Regex.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab08-Regex\Lab08-Regex\obj\Debug\Lab08-Regex.exe
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab08-Regex\Lab08-Regex\obj\Debug\Lab08-Regex.pdb

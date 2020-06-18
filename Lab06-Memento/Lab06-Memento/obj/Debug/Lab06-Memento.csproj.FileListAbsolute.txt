@@ -1,0 +1,10 @@
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab06-Memento\Lab06-Memento\obj\Debug\Lab06-Memento.csprojAssemblyReference.cache
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab06-Memento\Lab06-Memento\obj\Debug\Lab06_Memento.Form1.resources
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab06-Memento\Lab06-Memento\obj\Debug\Lab06_Memento.Properties.Resources.resources
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab06-Memento\Lab06-Memento\obj\Debug\Lab06-Memento.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab06-Memento\Lab06-Memento\obj\Debug\Lab06-Memento.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab06-Memento\Lab06-Memento\bin\Debug\Lab06-Memento.exe.config
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab06-Memento\Lab06-Memento\bin\Debug\Lab06-Memento.exe
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab06-Memento\Lab06-Memento\bin\Debug\Lab06-Memento.pdb
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab06-Memento\Lab06-Memento\obj\Debug\Lab06-Memento.exe
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab06-Memento\Lab06-Memento\obj\Debug\Lab06-Memento.pdb

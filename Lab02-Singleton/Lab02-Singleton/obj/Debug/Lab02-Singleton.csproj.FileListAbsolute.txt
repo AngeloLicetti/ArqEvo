@@ -1,0 +1,10 @@
+C:\Users\Pc\Downloads\urp\7mo ciclo\arqevo\Lab02-Singleton\Lab02-Singleton\bin\Debug\Lab02-Singleton.exe.config
+C:\Users\Pc\Downloads\urp\7mo ciclo\arqevo\Lab02-Singleton\Lab02-Singleton\bin\Debug\Lab02-Singleton.exe
+C:\Users\Pc\Downloads\urp\7mo ciclo\arqevo\Lab02-Singleton\Lab02-Singleton\bin\Debug\Lab02-Singleton.pdb
+C:\Users\Pc\Downloads\urp\7mo ciclo\arqevo\Lab02-Singleton\Lab02-Singleton\obj\Debug\Lab02-Singleton.csprojAssemblyReference.cache
+C:\Users\Pc\Downloads\urp\7mo ciclo\arqevo\Lab02-Singleton\Lab02-Singleton\obj\Debug\Lab02_Singleton.Form1.resources
+C:\Users\Pc\Downloads\urp\7mo ciclo\arqevo\Lab02-Singleton\Lab02-Singleton\obj\Debug\Lab02_Singleton.Properties.Resources.resources
+C:\Users\Pc\Downloads\urp\7mo ciclo\arqevo\Lab02-Singleton\Lab02-Singleton\obj\Debug\Lab02-Singleton.csproj.GenerateResource.cache
+C:\Users\Pc\Downloads\urp\7mo ciclo\arqevo\Lab02-Singleton\Lab02-Singleton\obj\Debug\Lab02-Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Downloads\urp\7mo ciclo\arqevo\Lab02-Singleton\Lab02-Singleton\obj\Debug\Lab02-Singleton.exe
+C:\Users\Pc\Downloads\urp\7mo ciclo\arqevo\Lab02-Singleton\Lab02-Singleton\obj\Debug\Lab02-Singleton.pdb
