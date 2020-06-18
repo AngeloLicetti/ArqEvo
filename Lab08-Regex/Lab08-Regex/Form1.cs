@@ -18,10 +18,26 @@ namespace Lab08_Regex
             InitializeComponent();
         }
 
-        private void txtRegex_TextChanged(object sender, EventArgs e)
+        private void btnRegexX_Click(object sender, EventArgs e)
         {
             MatchCollection mc = Regex.Matches(txtTexto.Text, txtRegex.Text);
             txtMatches.Text = mc.Count.ToString();
+            foreach (Match m in mc)
+            {
+                lbMatches.Items.Add(m.ToString());
+            }
+        }
+
+        private void btnEliminarBlancos_Click(object sender, EventArgs e)
+        {
+            AbstractFilter eliminarBlancos = new EliminarBlancos();
+            txtEliminarBlancos.Text = eliminarBlancos.filtrar(txtTexto.Text);
+        }
+
+        private void btnWordCount_Click(object sender, EventArgs e)
+        {
+            AbstractFilter wordCount = new WordCount();
+            txtEliminarBlancos.Text = wordCount.filtrar(txtTexto.Text);
         }
     }
 }

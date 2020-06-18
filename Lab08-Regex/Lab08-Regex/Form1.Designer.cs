@@ -30,70 +30,92 @@
         {
             this.txtRegex = new System.Windows.Forms.TextBox();
             this.txtTexto = new System.Windows.Forms.TextBox();
+            this.btnRegexX = new System.Windows.Forms.Button();
             this.txtMatches = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
+            this.txtEliminarBlancos = new System.Windows.Forms.TextBox();
+            this.lbMatches = new System.Windows.Forms.ListBox();
+            this.btnEliminarBlancos = new System.Windows.Forms.Button();
+            this.btnWordCount = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txtRegex
             // 
             this.txtRegex.Location = new System.Drawing.Point(78, 58);
             this.txtRegex.Name = "txtRegex";
-            this.txtRegex.Size = new System.Drawing.Size(242, 20);
+            this.txtRegex.Size = new System.Drawing.Size(423, 20);
             this.txtRegex.TabIndex = 0;
-            this.txtRegex.TextChanged += new System.EventHandler(this.txtRegex_TextChanged);
             // 
             // txtTexto
             // 
-            this.txtTexto.Location = new System.Drawing.Point(78, 156);
+            this.txtTexto.Location = new System.Drawing.Point(78, 94);
             this.txtTexto.Multiline = true;
             this.txtTexto.Name = "txtTexto";
-            this.txtTexto.Size = new System.Drawing.Size(250, 196);
+            this.txtTexto.Size = new System.Drawing.Size(423, 80);
             this.txtTexto.TabIndex = 1;
+            // 
+            // btnRegexX
+            // 
+            this.btnRegexX.Location = new System.Drawing.Point(426, 189);
+            this.btnRegexX.Name = "btnRegexX";
+            this.btnRegexX.Size = new System.Drawing.Size(75, 23);
+            this.btnRegexX.TabIndex = 7;
+            this.btnRegexX.Text = "Regex X";
+            this.btnRegexX.UseVisualStyleBackColor = true;
+            this.btnRegexX.Click += new System.EventHandler(this.btnRegexX_Click);
             // 
             // txtMatches
             // 
-            this.txtMatches.Location = new System.Drawing.Point(359, 109);
+            this.txtMatches.Location = new System.Drawing.Point(229, 212);
             this.txtMatches.Name = "txtMatches";
-            this.txtMatches.Size = new System.Drawing.Size(165, 20);
+            this.txtMatches.Size = new System.Drawing.Size(101, 20);
             this.txtMatches.TabIndex = 3;
             // 
-            // label1
+            // txtEliminarBlancos
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(359, 90);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(51, 13);
-            this.label1.TabIndex = 4;
-            this.label1.Text = "Matches:";
+            this.txtEliminarBlancos.Location = new System.Drawing.Point(78, 328);
+            this.txtEliminarBlancos.Multiline = true;
+            this.txtEliminarBlancos.Name = "txtEliminarBlancos";
+            this.txtEliminarBlancos.Size = new System.Drawing.Size(423, 80);
+            this.txtEliminarBlancos.TabIndex = 8;
             // 
-            // label2
+            // lbMatches
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(75, 130);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(37, 13);
-            this.label2.TabIndex = 5;
-            this.label2.Text = "Texto:";
+            this.lbMatches.FormattingEnabled = true;
+            this.lbMatches.Location = new System.Drawing.Point(78, 212);
+            this.lbMatches.Name = "lbMatches";
+            this.lbMatches.Size = new System.Drawing.Size(120, 95);
+            this.lbMatches.TabIndex = 9;
             // 
-            // label3
+            // btnEliminarBlancos
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(75, 25);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(56, 13);
-            this.label3.TabIndex = 6;
-            this.label3.Text = "Expresión:";
+            this.btnEliminarBlancos.Location = new System.Drawing.Point(426, 230);
+            this.btnEliminarBlancos.Name = "btnEliminarBlancos";
+            this.btnEliminarBlancos.Size = new System.Drawing.Size(75, 23);
+            this.btnEliminarBlancos.TabIndex = 7;
+            this.btnEliminarBlancos.Text = "Elim Blancos";
+            this.btnEliminarBlancos.UseVisualStyleBackColor = true;
+            this.btnEliminarBlancos.Click += new System.EventHandler(this.btnEliminarBlancos_Click);
+            // 
+            // btnWordCount
+            // 
+            this.btnWordCount.Location = new System.Drawing.Point(426, 268);
+            this.btnWordCount.Name = "btnWordCount";
+            this.btnWordCount.Size = new System.Drawing.Size(75, 23);
+            this.btnWordCount.TabIndex = 7;
+            this.btnWordCount.Text = "Word Count";
+            this.btnWordCount.UseVisualStyleBackColor = true;
+            this.btnWordCount.Click += new System.EventHandler(this.btnWordCount_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(568, 399);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
+            this.ClientSize = new System.Drawing.Size(568, 449);
+            this.Controls.Add(this.lbMatches);
+            this.Controls.Add(this.txtEliminarBlancos);
+            this.Controls.Add(this.btnWordCount);
+            this.Controls.Add(this.btnEliminarBlancos);
+            this.Controls.Add(this.btnRegexX);
             this.Controls.Add(this.txtMatches);
             this.Controls.Add(this.txtTexto);
             this.Controls.Add(this.txtRegex);
@@ -108,10 +130,12 @@
 
         private System.Windows.Forms.TextBox txtRegex;
         private System.Windows.Forms.TextBox txtTexto;
+        private System.Windows.Forms.Button btnRegexX;
         private System.Windows.Forms.TextBox txtMatches;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.TextBox txtEliminarBlancos;
+        private System.Windows.Forms.ListBox lbMatches;
+        private System.Windows.Forms.Button btnEliminarBlancos;
+        private System.Windows.Forms.Button btnWordCount;
     }
 }
 
