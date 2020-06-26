@@ -1,0 +1,10 @@
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab09-TuberiasYFiltros\Lab09-TuberiasYFiltros\bin\Debug\Lab09-TuberiasYFiltros.exe.config
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab09-TuberiasYFiltros\Lab09-TuberiasYFiltros\bin\Debug\Lab09-TuberiasYFiltros.exe
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab09-TuberiasYFiltros\Lab09-TuberiasYFiltros\bin\Debug\Lab09-TuberiasYFiltros.pdb
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab09-TuberiasYFiltros\Lab09-TuberiasYFiltros\obj\Debug\Lab09-TuberiasYFiltros.csprojAssemblyReference.cache
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab09-TuberiasYFiltros\Lab09-TuberiasYFiltros\obj\Debug\Lab09_TuberiasYFiltros.Form1.resources
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab09-TuberiasYFiltros\Lab09-TuberiasYFiltros\obj\Debug\Lab09_TuberiasYFiltros.Properties.Resources.resources
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab09-TuberiasYFiltros\Lab09-TuberiasYFiltros\obj\Debug\Lab09-TuberiasYFiltros.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab09-TuberiasYFiltros\Lab09-TuberiasYFiltros\obj\Debug\Lab09-TuberiasYFiltros.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab09-TuberiasYFiltros\Lab09-TuberiasYFiltros\obj\Debug\Lab09-TuberiasYFiltros.exe
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab09-TuberiasYFiltros\Lab09-TuberiasYFiltros\obj\Debug\Lab09-TuberiasYFiltros.pdb
