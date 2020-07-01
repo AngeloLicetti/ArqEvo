@@ -1,0 +1,10 @@
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\Lab12-NorthWindAlBoton\bin\Debug\Lab12-NorthWindAlBoton.exe.config
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\Lab12-NorthWindAlBoton\bin\Debug\Lab12-NorthWindAlBoton.exe
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\Lab12-NorthWindAlBoton\bin\Debug\Lab12-NorthWindAlBoton.pdb
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\Lab12-NorthWindAlBoton\obj\Debug\Lab12-NorthWindAlBoton.csprojAssemblyReference.cache
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\Lab12-NorthWindAlBoton\obj\Debug\Lab12_NorthWindAlBoton.Form1.resources
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\Lab12-NorthWindAlBoton\obj\Debug\Lab12_NorthWindAlBoton.Properties.Resources.resources
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\Lab12-NorthWindAlBoton\obj\Debug\Lab12-NorthWindAlBoton.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\Lab12-NorthWindAlBoton\obj\Debug\Lab12-NorthWindAlBoton.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\Lab12-NorthWindAlBoton\obj\Debug\Lab12-NorthWindAlBoton.exe
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\Lab12-NorthWindAlBoton\obj\Debug\Lab12-NorthWindAlBoton.pdb
