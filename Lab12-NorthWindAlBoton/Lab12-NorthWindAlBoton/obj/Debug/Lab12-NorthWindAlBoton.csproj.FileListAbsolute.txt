@@ -8,3 +8,7 @@ C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\Lab12-NorthWindA
 C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\Lab12-NorthWindAlBoton\obj\Debug\Lab12-NorthWindAlBoton.csproj.CoreCompileInputs.cache
 C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\Lab12-NorthWindAlBoton\obj\Debug\Lab12-NorthWindAlBoton.exe
 C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\Lab12-NorthWindAlBoton\obj\Debug\Lab12-NorthWindAlBoton.pdb
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\Lab12-NorthWindAlBoton\bin\Debug\CapaDeDatos.dll
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\Lab12-NorthWindAlBoton\bin\Debug\CapaDeDatos.pdb
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\Lab12-NorthWindAlBoton\bin\Debug\CapaDeDatos.dll.config
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\Lab12-NorthWindAlBoton\obj\Debug\Lab12-NorthWindAlBoton.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\CapaDeDatos\bin\Debug\CapaDeDatos.dll.config
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\CapaDeDatos\obj\Debug\CapaDeDatos.csprojAssemblyReference.cache
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\Pc\source\repos\urp-code\arqevo\Lab12-NorthWindAlBoton\CapaDeDatos\obj\Debug\CapaDeDatos.pdb

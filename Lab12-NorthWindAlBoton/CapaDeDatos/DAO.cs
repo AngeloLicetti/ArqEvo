@@ -1,5 +1,4 @@
-﻿using CapaDeDatos.DataSet1TableAdapters;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
@@ -10,20 +9,25 @@ namespace CapaDeDatos
 {
     public class DAO
     {
-        public DataSet getAllCategories()
+        public dsCategories getAllCategories()
         {
-            DataSet dsc = new dsCategories();
-            dsCategoriesTableAdapters.CategoriesTableAdapter cta = new dsCategoriesTableAdapters.CategoriesTableAdapter();
+            //DataSet dsc = new dsCategories();
+            //dsCategoriesTableAdapters.CategoriesTableAdapter cta = new dsCategoriesTableAdapters.CategoriesTableAdapter();
             //cta.Fill(dsc.Categories);
+            //return dsc;
+
+            var dsc = new dsCategories();
+            var cta = new dsCategoriesTableAdapters.CategoriesTableAdapter();
+            cta.Fill(dsc.Categories);
             return dsc;
         }
 
-        public DataSet getAllProducts()
+        public dsProducts getAllProducts()
         {
-            DataSet dsc = new dsProducts();
-            dsProductsTableAdapters.ProductsTableAdapter cta = new dsProductsTableAdapters.ProductsTableAdapter();
-            //cta.Fill(dsc.Products);
-            return dsc;
+            var dsp = new dsProducts();
+            var pta = new dsProductsTableAdapters.ProductsTableAdapter();
+            pta.Fill(dsp.Products);
+            return dsp;
         }
     }
 }

@@ -52,6 +52,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>dsProducts.xsd</DependentUpon>
     </Compile>
+    <Compile Include="dsSuppliers.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsSuppliers.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -82,6 +87,17 @@
     </None>
     <None Include="dsProducts.xss">
       <DependentUpon>dsProducts.xsd</DependentUpon>
+    </None>
+    <None Include="dsSuppliers.xsc">
+      <DependentUpon>dsSuppliers.xsd</DependentUpon>
+    </None>
+    <None Include="dsSuppliers.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsSuppliers.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsSuppliers.xss">
+      <DependentUpon>dsSuppliers.xsd</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
