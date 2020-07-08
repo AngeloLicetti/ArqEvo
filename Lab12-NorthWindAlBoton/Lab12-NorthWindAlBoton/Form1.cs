@@ -14,9 +14,11 @@ namespace Lab12_NorthWindAlBoton
 {
     public partial class Form1 : Form
     {
+        CtrlVentas ctrlv;
         public Form1()
         {
             InitializeComponent();
+            ctrlv = new CtrlVentas();
         }
 
         private void categoriesBindingNavigatorSaveItem_Click(object sender, EventArgs e)
@@ -50,7 +52,7 @@ namespace Lab12_NorthWindAlBoton
             //// TODO: esta línea de código carga datos en la tabla 'dsCategories.Categories' Puede moverla o quitarla según sea necesario.
             //this.categoriesTableAdapter.Fill(this.dsCategories.Categories);
 
-            CtrlVentas ctrlv = new CtrlVentas();
+            
             categoriesBindingSource.DataSource = ctrlv.getAllCategories();
             productsBindingSource.DataSource = ctrlv.getAllProducts();
         }
@@ -68,9 +70,26 @@ namespace Lab12_NorthWindAlBoton
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            double total = double.Parse(txtCantidad.Text) * double.Parse(unitPriceTextBox.Text);
-            txtTotal.Text = total.ToString();
+            try
+            {
+                int cantidad = Convert.ToInt32(txtCantidad.Text);
+                double precio = double.Parse(unitPriceTextBox.Text);
+                double total = ctrlv.calcularTotal(cantidad, precio);
+                txtTotal.Text = total.ToString();
 
+                DataRowView drw = (DataRowView)categoriesBindingSource.Current;
+                int categoria = (int)drw.Row["CategoryID"];
+
+                double descuento = ctrlv.calcularDescuento(cantidad, total, categoria);
+                txtDescuento.Text = Convert.ToString(descuento);
+
+                double neto = ctrlv.calcularNeto(total, descuento);
+                txtNeto.Text = Convert.ToString(neto);
+            }
+            catch
+            {
+                return;
+            }
         }
     }
 }
